@@ -1,26 +1,34 @@
 ## Welcome to Celadonsword Pages
 
-# 概念元素背景
+# 1.1 概念背景
 
-###在现代国际气象学界，二十四节气地位也非常高，被认定为中国的“第五大发明”。从古至今，中国对二十四节气进行充分利用，从古利用二十四节气指导农事，到如今2022年冬奥会利用二十四节气时间轴理念倒计时大放异彩，震惊中外。二十四节气贯穿整个中国文明发展史。
-2016年11月28日至12月2日，联合国教科文组织保护非物质文化遗产政府间委员会第十一届常会在埃塞俄比亚首都亚的斯亚贝巴联合国非洲经济委员会会议中心召开。11月30日下午，中国申报的“二十四节气——中国人通过观察太阳周年运动而形成的时间知识体系及其实践”的非物质文化遗产项目通过委员会评审，列入联合国教科文组织人类非物质文化遗产代表作名录。
+   在现代国际气象学界，二十四节气地位也非常高，被认定为中国的“第五大发明”。从古至今，中国对二十四节气进行充分利用，从古利用二十四节气指导农事，到如今2022年冬奥会利用二十四节气时间轴理念倒计时大放异彩，震惊中外。二十四节气贯穿整个中国文明发展史。
+   2016年11月28日至12月2日，联合国教科文组织保护非物质文化遗产政府间委员会第十一届常会在埃塞俄比亚首都亚的斯亚贝巴联合国非洲经济委员会会议中心召开。11月30日下午，中国申报的“二十四节气——中国人通过观察太阳周年运动而形成的时间知识体系及其实践”的非物质文化遗产项目通过委员会评审，列入联合国教科文组织人类非物质文化遗产代表作名录。
 
-## Header 2
-### Header 3
+# 1.2 项目简介
 
-
-
-**Bold** and _Italic_ and `Code` text
+  我公司将非物质文化遗产与互联网交互技术相结合，推出“二十四节气”主题系列文创产品，在使用现代化手段开发文创产品，创新文化造型，把二十四节气与非物质文化遗产的蕴意融合进去，在迎合近年文创市场审美需求的同时，推动非遗文化融入日常生活，让使用者在产品体验中解读中国传统文化内涵，在日常生活中感受非物质文化遗产的韵味，在潜移默化中感悟中华文化的美，同时达到对非物质文化遗产宣传推广的作用。并且我公司独立开发配套的特色小程序与实体商品交互，提高可用性与用户服务体验，突破以往文创产品停留在实物的局限，大大增加消费者的用户体验感。在产品销售方面，将在主流社交与购物平台采取多渠道宣发销售模式，构建完善的线上“销售-服务”体系，有效覆盖相关市场与受众面。
+# 1.3 主要产品
 
 
-```
+![图片](https://user-images.githubusercontent.com/78789925/161729820-bfd25c2c-8fe8-4a1b-b54b-aeb72dd6f318.png)
+                                 公司logo
+  该logo以中国传统祥云元素为主，六朵祥云围绕着太阳，象征着吉祥如意，logo通体以中国古代铜钱颜色为主，大小形状也与其相似，与我：公司主要产品，主要立意相关，是中国传统文化的体现，与美好寓意。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 发  带
+![图片](https://user-images.githubusercontent.com/78789925/161730184-c9d6d569-22a8-4a34-97fd-20f76ae5e5f6.png)
 
-### Jekyll Themes
+  本公司的发带以非物质文化遗产为灵感,在二十四节气中挑选四个反差较大的节气进行主题设计，共四套发带，发带一套两式，分花色与纯色，可供消费者任意挑选，发带风格差异大，面料以棉麻，丝绸为主，消费群体大。此外，在该产品包装上附有二维码，消费者扫描二维码可登录本公司专属小程序，领取专属模特示范的发带各式用法。本公司发带可一物多用，棉麻材质可做领带，丝绸材质可做发带，装饰物等。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Animousd/celadonsword.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 火漆
+![Uploading 图片.png…]()
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  本公司火漆以二十四节气为灵感，挑选其中四个节气，将与四个节气相关的四字成语制成印章，并将与其相对应的蜡粒整理成套可供消费者选择。消费者也可以扫描店铺展示的二维码，进入小程序自助选色，在小程序上选择自己心仪的颜色，小程序会自动生成与实际相对应的火漆成品样图供消费者参考。
+
+## 狐狸胸章
+![图片](https://user-images.githubusercontent.com/78789925/161730133-4ec71b1f-c1a5-42bf-b317-443e65785c0b.png)
+本公司的狐狸胸章灵感来源于《汉宫春晓图》契合二十四节气中立春元素，将古画的印象设计与现代产品相结合，既迎合消费市场需求又宣传推广了中华传统文化。                               
+
+
+#
